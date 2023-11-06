@@ -131,9 +131,11 @@ Parameter configuration:
 If you find this useful, please cite our paper
 
 ```
-@article{zhang2023unleashing,
+@inproceedings{zhang2023unleashing,
   title={Unleashing the Power of Shared Label Structures for Human Activity Recognition},
   author={Zhang, Xiyuan and Chowdhury, Ranak Roy and Zhang, Jiayun and Hong, Dezhi and Gupta, Rajesh K and Shang, Jingbo},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={3340--3350},
   year={2023}
 }
 ```
