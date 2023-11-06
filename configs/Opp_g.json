@@ -1,0 +1,21 @@
+{
+    "label_dictionary": {
+        "0": ["open", "door", "1"],
+        "1": ["open", "door", "2"],
+        "2": ["close", "door", "1"],
+        "3": ["close", "door", "2"],
+        "4": ["open", "fridge"],
+        "5": ["close", "fridge"],
+        "6": ["open", "dishwasher"],
+        "7": ["close", "dishwasher"],
+        "8": ["open", "drawer", "1"],
+        "9": ["close", "drawer", "1"],
+        "10": ["open", "drawer", "2"],
+        "11": ["close", "drawer", "2"],
+        "12": ["open", "drawer", "3"],
+        "13": ["close", "drawer", "3"],
+        "14": ["clean", "table"],
+        "15": ["drink", "from", "cup"],
+        "16": ["toggle", "switch"]
+    }
+}

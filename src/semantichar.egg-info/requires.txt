@@ -1,0 +1,8 @@
+scikit-learn
+Pillow
+numpy
+ftfy
+regex
+einops
+iopath
+wandb

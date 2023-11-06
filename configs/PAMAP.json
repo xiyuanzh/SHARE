@@ -1,0 +1,16 @@
+{
+    "label_dictionary": {
+        "0": ["lying"],
+        "1": ["sitting"],
+        "2": ["standing"],
+        "3": ["walking"],
+        "4": ["running"],
+        "5": ["cycling"],
+        "6": ["nordic", "walking"],
+        "7": ["ascending", "stairs"],
+        "8": ["descending", "stairs"],
+        "9": ["vacuum", "cleaning"],
+        "10": ["ironing"],
+        "11": ["rope", "jumping"]
+    }
+}
