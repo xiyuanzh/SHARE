@@ -21,7 +21,7 @@ conda activate share
 pip install --editable "."
 
 # OR install the built package 
-pip install semantichar
+pip install semantichar==0.2
 ```
 
 ## Dataset 
